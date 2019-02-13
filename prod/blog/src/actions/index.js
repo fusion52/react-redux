@@ -15,6 +15,7 @@ export const fetchPostsAndUsers = () => async (dispatch, getState) => {
     .value();
 };
 
+// function
 export const fetchPosts = () => async dispatch => {
   const response = await jsonPlaceholders.get('/posts');
 
