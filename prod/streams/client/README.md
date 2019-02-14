@@ -81,3 +81,6 @@ const auth = gapi.auth2.getAuthInstance()
 auth
 auth.signIn()
 auth.isSignedIn.get()
+
+gapi.auth2.getAuthInstance().currentUser
+gapi.auth2.getAuthInstance().currentUser.get().getId()
