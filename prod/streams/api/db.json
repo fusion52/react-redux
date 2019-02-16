@@ -1,0 +1,38 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "great",
+      "id": 1
+    },
+    {
+      "title": "Work Hard",
+      "description": "Play Hard!",
+      "id": 2
+    },
+    {
+      "title": "Hello World",
+      "description": "The whole world!",
+      "userId": "101173780548911157065",
+      "id": 3
+    },
+    {
+      "title": "Unexpected",
+      "description": "Behavior",
+      "userId": "101173780548911157065",
+      "id": 4
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "You shouldn't see this",
+      "userId": "101173780548911157065",
+      "id": 5
+    },
+    {
+      "title": "Streaming Component Reuse!!",
+      "description": "Refactoring code and showing work..",
+      "userId": "101173780548911157065",
+      "id": 6
+    }
+  ]
+}
